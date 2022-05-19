@@ -1,4 +1,4 @@
-# Verificador de Idades :person_with_pouting_face:
+# Verificador de Idades :smiley:
 
 - Teste de conteúdo. 
 
